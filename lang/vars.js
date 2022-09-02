@@ -24,6 +24,12 @@ const languagePack = {
             "Finally, someone with a good amount of IQ!",
             "Please, don't watch porn."
         ],
+        power: {
+            shutdown: {name:'Shutdown', message: 'Shutdown...'},
+            reboot: {name:'Reboot', message: 'Reboot...'},
+            hibernate: {name:'Hibernate', message: 'Hibernate...'},
+            suspend: {name:'Suspend', message: 'Suspend...'},
+        },
         months: [
 			'January',
 			'February',
