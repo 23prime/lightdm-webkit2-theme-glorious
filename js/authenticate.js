@@ -9,7 +9,7 @@ class Authenticate {
 		this._password = '';
 		
 		this._init();
-		this._language = new Language;		
+		this._language = new Lang;
 	}
 
 	_returnRandomErrorMessages() {

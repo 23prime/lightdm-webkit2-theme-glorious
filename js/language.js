@@ -1,5 +1,5 @@
 
-class Language {
+class Lang {
     constructor()
     {
         this._localStorage = window.localStorage;
@@ -120,11 +120,3 @@ class Language {
     }
 
 }
-
-
-
-
-
-
-
-
